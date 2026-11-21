@@ -1,0 +1,5 @@
+ref link:https://www.primevideo.com/
+font family:Roboto;
+primary bg color:#191922
+font color :#ffffff;
+icon:remix icon
